@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Ghfran Sabry! 👩‍💻
 
-### 🚀 Application & Web Developer
+###  Application & Web Developer
 I am a passionate developer dedicated to building innovative mobile applications and responsive websites. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-- 📱 **Mobile Development:** Focused on building cross-platform apps (Flutter & Dart).
-- 🌐 **Web Development:** Crafting modern, fast, and responsive user interfaces.
-- 🔭 **Current Focus:** Enhancing my portfolio and contributing to open-source projects.
-- 🌱 **Learning:** Exploring advanced Full-stack technologies and Backend architecture.
-- 💬 **Ask me about:** Flutter, Mobile UI Design, C++, or Frontend Development.
+-  **Mobile Development:** Focused on building cross-platform apps (Flutter & Dart).
+-  **Web Development:** Crafting modern, fast, and responsive user interfaces.
+-  **Current Focus:** Enhancing my portfolio and contributing to open-source projects.
+-  **Learning:** Exploring advanced Full-stack technologies and Backend architecture.
+-  **Ask me about:** Flutter, Mobile UI Design, C++, or Frontend Development.
 
 ---
 
