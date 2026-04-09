@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ghfran Sabry! 
+# Hi there 👋, I'm Ghfran Sabry!
 
 ###  Application & Web Developer
 I am a passionate developer dedicated to building innovative mobile applications and responsive websites. I love turning complex problems into simple, beautiful, and intuitive designs.
