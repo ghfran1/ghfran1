@@ -33,7 +33,7 @@ I am a passionate developer dedicated to building innovative mobile applications
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 * **LinkedIn:** [linkedin.com/in/ghfran-sabry](https://www.linkedin.com/in/ghfran-sabry-924924385/)
 * **Email:** [ghfransabry911@gmail.com](ghfransabry911@gmail.com)
 
